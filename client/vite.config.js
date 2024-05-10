@@ -5,6 +5,6 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   server: {
     host: '0.0.0.0',
-    port: 5174 // Укажите порт, на котором вы хотите запустить ваше приложение
+    port: 10000 // Укажите порт, на котором вы хотите запустить ваше приложение
   }
 });
