@@ -1,4 +1,4 @@
 export default {
-  API_URL: "http://localhost:5001",
+  API_URL: "https://vdovicheff-bank-1.onrender.com",
   LOGOUT_STORAGE_KEY: "logout"
 };
